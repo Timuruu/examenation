@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/pass_case"
+        android:id="@+id/pass_case"
+        android:icon="@drawable/dice_icon"/>
+    <item
+        android:title="@string/top_score"
+        android:id="@+id/top_score"
+        android:icon="@drawable/send_but"/>
+</menu>

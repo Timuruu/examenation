@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">exam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cu_e_fa">Scissors</string>
+    <string name="final_score">Final score:</string>
+    <string name="pass_case">Pass</string>
+    <string name="top_score">Top score</string>
+    <string name="gameResult"></string>
+    <string name="share_it">Share it...</string>
+    />
+</resources>
